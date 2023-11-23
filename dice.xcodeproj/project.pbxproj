@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DE65BE1C2B0E5D9700B2D4A4 /* DiceRoller.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE65BE1B2B0E5D9700B2D4A4 /* DiceRoller.swift */; };
 		DE6A5FE32B0E58B5002DBAFA /* diceApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE6A5FE22B0E58B5002DBAFA /* diceApp.swift */; };
 		DE6A5FE52B0E58B5002DBAFA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE6A5FE42B0E58B5002DBAFA /* ContentView.swift */; };
 		DE6A5FE72B0E58B6002DBAFA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE6A5FE62B0E58B6002DBAFA /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DE65BE1B2B0E5D9700B2D4A4 /* DiceRoller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiceRoller.swift; sourceTree = "<group>"; };
 		DE6A5FDF2B0E58B5002DBAFA /* dice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = dice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE6A5FE22B0E58B5002DBAFA /* diceApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = diceApp.swift; sourceTree = "<group>"; };
 		DE6A5FE42B0E58B5002DBAFA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 			children = (
 				DE6A5FE22B0E58B5002DBAFA /* diceApp.swift */,
 				DE6A5FE42B0E58B5002DBAFA /* ContentView.swift */,
+				DE65BE1B2B0E5D9700B2D4A4 /* DiceRoller.swift */,
 				DE6A5FE62B0E58B6002DBAFA /* Assets.xcassets */,
 				DE6A5FE82B0E58B6002DBAFA /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				DE6A5FE52B0E58B5002DBAFA /* ContentView.swift in Sources */,
 				DE6A5FE32B0E58B5002DBAFA /* diceApp.swift in Sources */,
+				DE65BE1C2B0E5D9700B2D4A4 /* DiceRoller.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
